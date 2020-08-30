@@ -26,7 +26,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.4/toastr.min.js"></script>
 
     {{-- sweet alert --}}
-    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@8"></script>
+    {{-- <script src="https://cdn.jsdelivr.net/npm/sweetalert2@8"></script> --}}
 
     <script src="js/slot/slotmachine.js"></script>
     <script src="js/fronted/index.js"></script>

@@ -23,7 +23,7 @@
     <script src="bootstrap/js/bootstrap.min.js"></script>
 
     {{-- sweet alert --}}
-    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@8"></script>
+    {{-- <script src="https://cdn.jsdelivr.net/npm/sweetalert2@8"></script> --}}
 
     <script src="js/fronted/login.js"></script>
     <script src="js/fronted/index.js"></script>

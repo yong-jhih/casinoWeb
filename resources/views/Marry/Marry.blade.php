@@ -15,7 +15,7 @@
     <script src="js/Marry/bootstrap.js"></script>
     <script src="js/Marry/popper.js"></script>
     {{-- sweet alert --}}
-    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@8"></script>
+    {{-- <script src="https://cdn.jsdelivr.net/npm/sweetalert2@8"></script> --}}
     <link rel="stylesheet" href="css/Marry/Marry.css">
     {{-- navbar --}}
     <script src="js/fronted/index.js"></script>
